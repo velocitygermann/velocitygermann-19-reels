@@ -179,7 +179,37 @@
       "german": "Hellere Tage, kommen bald.",
       "category": "Hope",
       "generated_at": "2026-03-30T09:01:13.592192"
+    },
+    {
+      "english": "You're a great friend, really.",
+      "german": "Du bist ein toller Freund, wirklich.",
+      "category": "Friendship",
+      "generated_at": "2026-03-30T10:43:55.572636"
+    },
+    {
+      "english": "Thanks for being there, always.",
+      "german": "Danke, dass du immer da bist.",
+      "category": "Friendship",
+      "generated_at": "2026-03-30T10:43:55.572644"
+    },
+    {
+      "english": "Let's hang out soon, okay?",
+      "german": "Lass uns bald treffen, ja?",
+      "category": "Friendship",
+      "generated_at": "2026-03-30T10:43:55.572645"
+    },
+    {
+      "english": "I'm so glad, we're friends.",
+      "german": "Ich bin so froh, dass wir Freunde sind.",
+      "category": "Friendship",
+      "generated_at": "2026-03-30T10:43:55.572647"
+    },
+    {
+      "english": "You always make me laugh.",
+      "german": "Du bringst mich immer zum Lachen.",
+      "category": "Friendship",
+      "generated_at": "2026-03-30T10:43:55.572648"
     }
   ],
-  "last_updated": "2026-03-30T09:01:13.592195"
+  "last_updated": "2026-03-30T10:43:55.572650"
 }
