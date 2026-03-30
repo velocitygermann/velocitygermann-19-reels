@@ -479,7 +479,37 @@
       "german": "Kleine Siege, machen stark.",
       "category": "Success",
       "generated_at": "2026-03-30T20:05:48.868520"
+    },
+    {
+      "english": "So happy, right now.",
+      "german": "So froh, jetzt.",
+      "category": "Joy",
+      "generated_at": "2026-03-30T21:30:58.592470"
+    },
+    {
+      "english": "What a lovely day!",
+      "german": "Was für ein schöner Tag!",
+      "category": "Joy",
+      "generated_at": "2026-03-30T21:30:58.592479"
+    },
+    {
+      "english": "Feeling great, truly.",
+      "german": "Fühle mich toll, wirklich.",
+      "category": "Joy",
+      "generated_at": "2026-03-30T21:30:58.592480"
+    },
+    {
+      "english": "This is wonderful!",
+      "german": "Das ist wunderbar!",
+      "category": "Joy",
+      "generated_at": "2026-03-30T21:30:58.592481"
+    },
+    {
+      "english": "Pure joy, yes!",
+      "german": "Pure Freude, ja!",
+      "category": "Joy",
+      "generated_at": "2026-03-30T21:30:58.592482"
     }
   ],
-  "last_updated": "2026-03-30T20:05:48.868521"
+  "last_updated": "2026-03-30T21:30:58.592484"
 }
