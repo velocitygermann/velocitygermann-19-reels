@@ -449,7 +449,37 @@
       "german": "Zeige Mitgefühl, weit.",
       "category": "Kindness",
       "generated_at": "2026-03-30T20:03:28.443385"
+    },
+    {
+      "english": "Little by little, great things grow.",
+      "german": "Langsam, aber sicher, wächst Großes.",
+      "category": "Success",
+      "generated_at": "2026-03-30T20:05:48.868507"
+    },
+    {
+      "english": "Every step counts, towards your goal.",
+      "german": "Jeder Schritt zählt, zu deinem Ziel.",
+      "category": "Success",
+      "generated_at": "2026-03-30T20:05:48.868516"
+    },
+    {
+      "english": "Believe you can, and you're halfway.",
+      "german": "Glaube daran, und du bist nah.",
+      "category": "Success",
+      "generated_at": "2026-03-30T20:05:48.868517"
+    },
+    {
+      "english": "Keep pushing forward, don't give up.",
+      "german": "Bleib dran, gib nicht auf.",
+      "category": "Success",
+      "generated_at": "2026-03-30T20:05:48.868518"
+    },
+    {
+      "english": "Small wins, build big momentum.",
+      "german": "Kleine Siege, machen stark.",
+      "category": "Success",
+      "generated_at": "2026-03-30T20:05:48.868520"
     }
   ],
-  "last_updated": "2026-03-30T20:03:28.443387"
+  "last_updated": "2026-03-30T20:05:48.868521"
 }
