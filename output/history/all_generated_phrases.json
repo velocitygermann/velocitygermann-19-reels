@@ -389,7 +389,37 @@
       "german": "Ich denke an dich, immer.",
       "category": "Love",
       "generated_at": "2026-03-30T18:08:18.421005"
+    },
+    {
+      "english": "Be kind, always.",
+      "german": "Sei nett, immer.",
+      "category": "Kindness",
+      "generated_at": "2026-03-30T19:44:51.426193"
+    },
+    {
+      "english": "Share your smile, please.",
+      "german": "Teile dein Lächeln, bitte.",
+      "category": "Kindness",
+      "generated_at": "2026-03-30T19:44:51.426203"
+    },
+    {
+      "english": "Help others, gently.",
+      "german": "Hilf anderen, sanft.",
+      "category": "Kindness",
+      "generated_at": "2026-03-30T19:44:51.426204"
+    },
+    {
+      "english": "Offer a hand, today.",
+      "german": "Reiche eine Hand, heute.",
+      "category": "Kindness",
+      "generated_at": "2026-03-30T19:44:51.426205"
+    },
+    {
+      "english": "Listen well, truly.",
+      "german": "Höre gut zu, wirklich.",
+      "category": "Kindness",
+      "generated_at": "2026-03-30T19:44:51.426206"
     }
   ],
-  "last_updated": "2026-03-30T18:08:18.421008"
+  "last_updated": "2026-03-30T19:44:51.426208"
 }
