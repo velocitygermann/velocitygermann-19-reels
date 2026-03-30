@@ -299,7 +299,37 @@
       "german": "Sei tapfer, verfolge deine Ziele.",
       "category": "Courage",
       "generated_at": "2026-03-30T14:55:08.462656"
+    },
+    {
+      "english": "Little steps, much progress.",
+      "german": "Kleine Schritte, viel Fortschritt.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-30T16:16:50.716641"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "german": "Hör mehr zu, sprich weniger.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-30T16:16:50.716650"
+    },
+    {
+      "english": "Mistakes, are teachers.",
+      "german": "Fehler, sind Lehrer.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-30T16:16:50.716651"
+    },
+    {
+      "english": "Practice daily, grow daily.",
+      "german": "Übe täglich, wachse täglich.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-30T16:16:50.716653"
+    },
+    {
+      "english": "Patience, wins the game.",
+      "german": "Geduld, gewinnt das Spiel.",
+      "category": "Wisdom",
+      "generated_at": "2026-03-30T16:16:50.716654"
     }
   ],
-  "last_updated": "2026-03-30T14:55:08.462657"
+  "last_updated": "2026-03-30T16:16:50.716655"
 }
