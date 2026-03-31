@@ -719,7 +719,37 @@
       "german": "Bleib ruhig, schwanke nicht.",
       "category": "Balance",
       "generated_at": "2026-03-31T16:16:29.849977"
+    },
+    {
+      "english": "Practice daily, progress daily.",
+      "german": "Täglich üben, täglich fortschreiten.",
+      "category": "Inspiration",
+      "generated_at": "2026-03-31T16:37:02.702717"
+    },
+    {
+      "english": "Be brave, say hello.",
+      "german": "Sei mutig, sag hallo.",
+      "category": "Inspiration",
+      "generated_at": "2026-03-31T16:37:02.702726"
+    },
+    {
+      "english": "Small steps, big results.",
+      "german": "Kleine Schritte, große Ergebnisse.",
+      "category": "Inspiration",
+      "generated_at": "2026-03-31T16:37:02.702728"
+    },
+    {
+      "english": "Explore, discover, converse.",
+      "german": "Erkunden, entdecken, sprechen.",
+      "category": "Inspiration",
+      "generated_at": "2026-03-31T16:37:02.702729"
+    },
+    {
+      "english": "Your voice, your language.",
+      "german": "Deine Stimme, deine Sprache.",
+      "category": "Inspiration",
+      "generated_at": "2026-03-31T16:37:02.702730"
     }
   ],
-  "last_updated": "2026-03-31T16:16:29.849980"
+  "last_updated": "2026-03-31T16:37:02.702731"
 }
