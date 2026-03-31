@@ -659,7 +659,37 @@
       "german": "Ein Atemzug, nach dem andern.",
       "category": "Mindfulness",
       "generated_at": "2026-03-31T11:31:34.412986"
+    },
+    {
+      "english": "Each step counts, keep moving forward.",
+      "german": "Jeder Schritt zählt, weiter vorwärts.",
+      "category": "Patience",
+      "generated_at": "2026-03-31T14:50:39.977844"
+    },
+    {
+      "english": "Patience is a virtue, remember that.",
+      "german": "Geduld ist eine Tugend, vergiss das nicht.",
+      "category": "Patience",
+      "generated_at": "2026-03-31T14:50:39.977852"
+    },
+    {
+      "english": "Trust the journey, it's unfolding.",
+      "german": "Vertraue der Reise, sie entfaltet sich.",
+      "category": "Patience",
+      "generated_at": "2026-03-31T14:50:39.977854"
+    },
+    {
+      "english": "Breathe deeply, and wait it out.",
+      "german": "Atme tief, und warte ab.",
+      "category": "Patience",
+      "generated_at": "2026-03-31T14:50:39.977855"
+    },
+    {
+      "english": "Soon, it will be worth it.",
+      "german": "Bald, wird es sich lohnen.",
+      "category": "Patience",
+      "generated_at": "2026-03-31T14:50:39.977856"
     }
   ],
-  "last_updated": "2026-03-31T11:31:34.412988"
+  "last_updated": "2026-03-31T14:50:39.977858"
 }
