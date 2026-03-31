@@ -629,7 +629,37 @@
       "german": "Den Geist erweitern, Deutsch lernen.",
       "category": "Purpose",
       "generated_at": "2026-03-31T07:55:25.855663"
+    },
+    {
+      "english": "Breathe in, breathe out.",
+      "german": "Atme ein, atme aus.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-31T11:31:34.412974"
+    },
+    {
+      "english": "Just be, right now.",
+      "german": "Sei einfach, jetzt hier.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-31T11:31:34.412982"
+    },
+    {
+      "english": "Feel the moment, fully.",
+      "german": "Fühle den Moment, ganz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-31T11:31:34.412984"
+    },
+    {
+      "english": "Quiet mind, calm heart.",
+      "german": "Stiller Geist, ruhiges Herz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-31T11:31:34.412985"
+    },
+    {
+      "english": "One breath, at a time.",
+      "german": "Ein Atemzug, nach dem andern.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-31T11:31:34.412986"
     }
   ],
-  "last_updated": "2026-03-31T07:55:25.855664"
+  "last_updated": "2026-03-31T11:31:34.412988"
 }
