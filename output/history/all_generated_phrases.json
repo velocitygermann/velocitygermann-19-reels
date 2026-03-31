@@ -569,7 +569,37 @@
       "german": "Dein Einsatz, dein Lohn.",
       "category": "Motivation",
       "generated_at": "2026-03-31T06:07:16.057044"
+    },
+    {
+      "english": "So much fun, wow!",
+      "german": "So viel Spaß, wow!",
+      "category": "Joy",
+      "generated_at": "2026-03-31T06:53:45.659024"
+    },
+    {
+      "english": "My heart is full.",
+      "german": "Mein Herz ist voll.",
+      "category": "Joy",
+      "generated_at": "2026-03-31T06:53:45.659031"
+    },
+    {
+      "english": "Absolutely delightful, yes.",
+      "german": "Absolut herrlich, ja.",
+      "category": "Joy",
+      "generated_at": "2026-03-31T06:53:45.659034"
+    },
+    {
+      "english": "A moment of bliss.",
+      "german": "Ein Moment des Glücks.",
+      "category": "Joy",
+      "generated_at": "2026-03-31T06:53:45.659036"
+    },
+    {
+      "english": "So pleased, very.",
+      "german": "So erfreut, sehr.",
+      "category": "Joy",
+      "generated_at": "2026-03-31T06:53:45.659038"
     }
   ],
-  "last_updated": "2026-03-31T06:07:16.057045"
+  "last_updated": "2026-03-31T06:53:45.659041"
 }
