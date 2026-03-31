@@ -599,7 +599,37 @@
       "german": "So erfreut, sehr.",
       "category": "Joy",
       "generated_at": "2026-03-31T06:53:45.659038"
+    },
+    {
+      "english": "Work in Germany, unlock doors.",
+      "german": "In Deutschland arbeiten, Türen öffnen.",
+      "category": "Purpose",
+      "generated_at": "2026-03-31T07:55:25.855649"
+    },
+    {
+      "english": "Study abroad, in German.",
+      "german": "Im Ausland studieren, auf Deutsch.",
+      "category": "Purpose",
+      "generated_at": "2026-03-31T07:55:25.855659"
+    },
+    {
+      "english": "Talk to locals, build friendships.",
+      "german": "Mit Einheimischen reden, Freundschaften bauen.",
+      "category": "Purpose",
+      "generated_at": "2026-03-31T07:55:25.855660"
+    },
+    {
+      "english": "Enjoy music, in its original.",
+      "german": "Musik genießen, im Original.",
+      "category": "Purpose",
+      "generated_at": "2026-03-31T07:55:25.855662"
+    },
+    {
+      "english": "Grow your mind, learn German.",
+      "german": "Den Geist erweitern, Deutsch lernen.",
+      "category": "Purpose",
+      "generated_at": "2026-03-31T07:55:25.855663"
     }
   ],
-  "last_updated": "2026-03-31T06:53:45.659041"
+  "last_updated": "2026-03-31T07:55:25.855664"
 }
