@@ -839,7 +839,37 @@
       "german": "Sanfte Schritte, vorwärts.",
       "category": "Mindfulness",
       "generated_at": "2026-03-31T20:19:01.714104"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "german": "Danke, für alles.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-31T21:08:44.064017"
+    },
+    {
+      "english": "I appreciate, your help.",
+      "german": "Ich schätze, deine Hilfe.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-31T21:08:44.064024"
+    },
+    {
+      "english": "So kind, of you.",
+      "german": "Sehr nett, von dir.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-31T21:08:44.064026"
+    },
+    {
+      "english": "I am grateful, truly.",
+      "german": "Ich bin dankbar, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-31T21:08:44.064027"
+    },
+    {
+      "english": "Thanks a lot, friend.",
+      "german": "Vielen Dank, Freund.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-31T21:08:44.064028"
     }
   ],
-  "last_updated": "2026-03-31T20:19:01.714106"
+  "last_updated": "2026-03-31T21:08:44.064029"
 }
