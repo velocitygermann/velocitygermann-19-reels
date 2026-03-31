@@ -779,7 +779,37 @@
       "german": "Wahre Stärke, ist auch Güte.",
       "category": "Strength",
       "generated_at": "2026-03-31T17:44:35.868546"
+    },
+    {
+      "english": "Learn a little, every day.",
+      "german": "Lerne ein bisschen, jeden Tag.",
+      "category": "Growth",
+      "generated_at": "2026-03-31T19:44:18.548015"
+    },
+    {
+      "english": "Mistakes are, stepping stones.",
+      "german": "Fehler sind, Trittsteine.",
+      "category": "Growth",
+      "generated_at": "2026-03-31T19:44:18.548023"
+    },
+    {
+      "english": "Be patient, with yourself.",
+      "german": "Sei geduldig, mit dir.",
+      "category": "Growth",
+      "generated_at": "2026-03-31T19:44:18.548025"
+    },
+    {
+      "english": "Listen well, speak slowly.",
+      "german": "Höre gut zu, sprich langsam.",
+      "category": "Growth",
+      "generated_at": "2026-03-31T19:44:18.548026"
+    },
+    {
+      "english": "Practice makes, progress.",
+      "german": "Übung macht, Fortschritt.",
+      "category": "Growth",
+      "generated_at": "2026-03-31T19:44:18.548027"
     }
   ],
-  "last_updated": "2026-03-31T17:44:35.868548"
+  "last_updated": "2026-03-31T19:44:18.548028"
 }
