@@ -689,7 +689,37 @@
       "german": "Bald, wird es sich lohnen.",
       "category": "Patience",
       "generated_at": "2026-03-31T14:50:39.977856"
+    },
+    {
+      "english": "Find your center, breathe in.",
+      "german": "Finde deine Mitte, atme ein.",
+      "category": "Balance",
+      "generated_at": "2026-03-31T16:16:29.849955"
+    },
+    {
+      "english": "Steady hands, calm mind.",
+      "german": "Feste Hände, ruhiger Geist.",
+      "category": "Balance",
+      "generated_at": "2026-03-31T16:16:29.849970"
+    },
+    {
+      "english": "Slow down, feel the ground.",
+      "german": "Langsam, spüre den Boden.",
+      "category": "Balance",
+      "generated_at": "2026-03-31T16:16:29.849972"
+    },
+    {
+      "english": "One step, then another.",
+      "german": "Ein Schritt, dann noch einer.",
+      "category": "Balance",
+      "generated_at": "2026-03-31T16:16:29.849975"
+    },
+    {
+      "english": "Hold steady, don't sway.",
+      "german": "Bleib ruhig, schwanke nicht.",
+      "category": "Balance",
+      "generated_at": "2026-03-31T16:16:29.849977"
     }
   ],
-  "last_updated": "2026-03-31T14:50:39.977858"
+  "last_updated": "2026-03-31T16:16:29.849980"
 }
